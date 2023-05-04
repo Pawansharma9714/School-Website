@@ -26,13 +26,13 @@ export default function Testimonial() {
                     />
                   </div>
                   <div className="tst-author">
-                    <h4>Jackson</h4>
-                    <span>Shopify Developer</span>
+                    <h4>Ravi</h4>
+                    <span>Flutter Developer</span>
                   </div>
                   <p>
-                    You really do help young creative minds to get quality
-                    education and professional job search assistance. I’d
-                    recommend it to everyone!
+                  The institute's facilities were top-notch, with well-equipped classrooms and modern training tools.
+                   The staff was friendly and helpful, and they always went out of their way to ensure that we had a
+                    comfortable and productive learning environment.
                   </p>
                   <div className="tst-rating">
                     <i className="fa fa-star"></i>
@@ -43,33 +43,6 @@ export default function Testimonial() {
                   </div>
                 </div>
               </div>
-
-              <div className="col-md-4 col-sm-4">
-                <div className="item">
-                  <div className="tst-image">
-                    <img
-                      src="/assets/images/tst-image2.jpg"
-                      className="img-responsive"
-                      alt=""
-                    />
-                  </div>
-                  <div className="tst-author">
-                    <h4>Camila</h4>
-                    <span>Marketing Manager</span>
-                  </div>
-                  <p>
-                    Trying something new is exciting! Thanks for the amazing law
-                    course and the great teacher who was able to make it
-                    interesting.
-                  </p>
-                  <div className="tst-rating">
-                    <i className="fa fa-star"></i>
-                    <i className="fa fa-star"></i>
-                    <i className="fa fa-star"></i>
-                  </div>
-                </div>
-              </div>
-
               <div className="col-md-4 col-sm-4">
                 <div className="item">
                   <div className="tst-image">
@@ -80,14 +53,16 @@ export default function Testimonial() {
                     />
                   </div>
                   <div className="tst-author">
-                    <h4>Barbie</h4>
-                    <span>Art Director</span>
+                    <h4>Sonal</h4>
+                    <span>Senior Software Engineer</span>
                   </div>
                   <p>
-                    Donec erat libero, blandit vitae arcu eu, lacinia placerat
-                    justo. Sed sollicitudin quis felis vitae hendrerit.
+                  I recently took a course at this training institute with the goal of increasing my salary in my next job switch,
+                   and I have to say that it was one of the best decisions I've ever made. The course was specifically designed to help individuals like myself learn the skills and strategies 
+                  needed to negotiate a higher salary and succeed in the job market.
                   </p>
                   <div className="tst-rating">
+                  <i className="fa fa-star"></i>
                     <i className="fa fa-star"></i>
                     <i className="fa fa-star"></i>
                     <i className="fa fa-star"></i>
@@ -95,6 +70,35 @@ export default function Testimonial() {
                   </div>
                 </div>
               </div>
+              <div className="col-md-4 col-sm-4">
+                <div className="item">
+                  <div className="tst-image">
+                    <img
+                      src="/assets/images/tst-image2.jpg"
+                      className="img-responsive"
+                      alt=""
+                    />
+                  </div>
+                  <div className="tst-author">
+                    <h4>Nitin</h4>
+                    <span>Fullstack Developer</span>
+                  </div>
+                  <p>
+                  I recently completed a course at this training institute and I must say that I am thoroughly impressed with the
+                   quality of education and training provided. The instructors were extremely knowledgeable and experienced, 
+                  and they made the learning experience engaging and interactive.
+                  </p>
+                  <div className="tst-rating">
+                    <i className="fa fa-star"></i>
+                    <i className="fa fa-star"></i>
+                    <i className="fa fa-star"></i>
+                    <i className="fa fa-star"></i>
+                    <i className="fa fa-star"></i>
+                  </div>
+                </div>
+              </div>
+
+            
 
               <div className="col-md-4 col-sm-4">
                 <div className="item">
@@ -106,12 +110,13 @@ export default function Testimonial() {
                     />
                   </div>
                   <div className="tst-author">
-                    <h4>Andrio</h4>
-                    <span>Web Developer</span>
+                    <h4>Abdul</h4>
+                    <span>Frontend Developer</span>
                   </div>
                   <p>
-                    Nam eget mi eu ante faucibus viverra nec sed magna. Vivamus
-                    viverra sapien ex, elementum varius ex sagittis vel.
+                  I recently took a course at this training institute with the goal of increasing my salary in my next job switch,
+                   and I have to say that it was one of the best decisions I've ever made. The course was specifically designed to help individuals like myself learn the skills and strategies 
+                  needed to negotiate a higher salary and succeed in the job market.
                   </p>
                   <div className="tst-rating">
                     <i className="fa fa-star"></i>

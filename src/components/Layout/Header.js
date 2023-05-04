@@ -19,7 +19,7 @@ export default function Header() {
           </button>
 
           <a href="#" className="navbar-brand">
-            AJ Multimedia Institute
+            AJ Multimedia Education
           </a>
         </div>
 
@@ -60,7 +60,7 @@ export default function Header() {
           <ul className="nav navbar-nav navbar-right">
             <li>
               <a href="#">
-                <i className="fa fa-phone"></i> +65 2244 1100
+                <i className="fa fa-phone"></i> +91 84000 92848
               </a>
             </li>
           </ul>

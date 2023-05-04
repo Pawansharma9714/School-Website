@@ -19,10 +19,10 @@ export default function Home() {
               <div className="caption">
                 <div className="container">
                   <div className="col-md-6 col-sm-12">
-                    <h1>Distance Learning Education Center</h1>
+                    <h1>
+IT Training Institute | Job Placements | Massive Hike</h1>
                     <h3>
-                      Our online courses are designed to fit in your industry
-                      supporting all-round with latest technologies.
+                    Prepare yourself to become a competent and skilled IT Specialist that is ready for the demands and challenges of the industry.
                     </h3>
                     <a
                       href="#feature"
@@ -62,16 +62,14 @@ export default function Home() {
                   <div className="col-md-6 col-sm-12">
                     <h1>Efficient Learning Methods</h1>
                     <h3>
-                      Nam eget sapien vel nibh euismod vulputate in vel nibh.
-                      Quisque eu ex eu urna venenatis sollicitudin ut at libero.
-                      Visit{" "}
+                    We believe in Involve active participation, such as taking notes and asking questions, and breaking down complex concepts into smaller, manageable pieces. Additionally, regular practice, repetition, and seeking feedback can enhance understanding and retention of information.{" "}
                       <a
-                        href="https://plus.google.com/+templatemo"
+                        href="#courses"
                         target="_parent"
                       >
-                        templatemo
+                        Check out Courses
                       </a>{" "}
-                      page.
+                      NOW!
                     </h3>
                     <a
                       href="#contact"
@@ -136,7 +134,7 @@ export default function Home() {
                       Quisque eu ex eu urna venenatis sollicitudin ut at libero.
                       Visit{" "}
                       <a
-                        href="https://plus.google.com/+templatemo"
+                        href=""
                         target="_parent"
                       >
                         templatemo

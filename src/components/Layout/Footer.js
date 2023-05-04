@@ -8,13 +8,17 @@ export default function Footer() {
           <div className="col-md-4 col-sm-6">
             <div className="footer-info">
               <div className="section-title">
-                <h2>Headquarter</h2>
+                <h2>Surat Address</h2>
               </div>
               <address>
                 <p>
-                  1800 dapibus a tortor pretium,
-                  <br /> Integer nisl dui, ABC 12000
+                145, Devi Darshan Nagar,
+                <br /> Above Maurya Bati chokha,
+                <br /> Tere Name Char rasta,
+                 Althan Road
+                 <br />Pandesara, SURAT 394220                  
                 </p>
+                <a href="mailto:ajmultimediaeducation@gmail.com">ajmultimediaeducation@gmail.com</a>
               </address>
 
               <ul className="social-icon">
@@ -34,21 +38,21 @@ export default function Footer() {
               </ul>
 
               <div className="copyright-text">
-                <p>Copyright &copy; 2018 Company</p>
+                <p>Copyright &copy; 2023 AJ Multimedia Education</p>
                 <p>
-                  Design:{" "}
+                  Design &amp; Developed By:{" "}
                   <a
                     rel="nofollow"
-                    href="http://templatemo.com"
-                    title="html5 templates"
-                    target="_parent"
+                    href="http://www.avinyasoftware.com/"
+                    title="Avinya Software Solutions"
+                    target="_blank"
                   >
-                    Template Mo
+                    Avinya Software
                   </a>
                 </p>
-                <p>
-                  Distribution: <a href="https://themewagon.com/">ThemeWagon</a>
-                </p>
+                {/* <p>
+                  Distribution: <a href="">ThemeWagon</a>
+                </p> */}
               </div>
             </div>
           </div>
@@ -56,13 +60,16 @@ export default function Footer() {
           <div className="col-md-4 col-sm-6">
             <div className="footer-info">
               <div className="section-title">
-                <h2>Contact Info</h2>
+                <h2>Jaunpur Address</h2>
               </div>
               <address>
-                <p>+65 2244 1100, +66 1800 1100</p>
                 <p>
-                  <a href="mailto:youremail.com">hello@youremail.co</a>
+                Anupam Market,Sultanpur road
+                <br /> 
+                Tehsil: Badlapur 
+                District: JAUNPUR 222125                                                  
                 </p>
+                <a href="mailto:ajmultimediaeducation@gmail.com">ajmultimediaeducation@gmail.com</a>
               </address>
 
               <div className="footer_menu">

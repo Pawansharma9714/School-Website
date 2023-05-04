@@ -8,10 +8,13 @@ export default function Feature() {
           <div className="col-md-4 col-sm-4">
             <div className="feature-thumb">
               <span>01</span>
-              <h3>Trending Courses</h3>
+              <h3>
+              <a href="#courses" className="smoothScroll">
+              Trending Courses
+              </a>
+              </h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing eiusmod
-                tempor incididunt ut labore et dolore magna.
+              Enroll in one of our Trending Courses today and gain the competitive edge you need to succeed in your career.
               </p>
             </div>
           </div>
@@ -19,10 +22,9 @@ export default function Feature() {
           <div className="col-md-4 col-sm-4">
             <div className="feature-thumb">
               <span>02</span>
-              <h3>Books & Library</h3>
+              <h3>Live Class & Real Time Projects</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing eiusmod
-                tempor incididunt ut labore et dolore magna.
+              Experience the best of both worlds with our Live Class & Real-Time Projects, designed to give you hands-on training and real-world experience.
               </p>
             </div>
           </div>
@@ -30,10 +32,9 @@ export default function Feature() {
           <div className="col-md-4 col-sm-4">
             <div className="feature-thumb">
               <span>03</span>
-              <h3>Certified Teachers</h3>
+              <h3>Certified Trainers</h3>
               <p>
-                templatemo delivers a wide variety of HTML5 templates for you at
-                absolutely no charge. Please tell your friends.
+              Our Certified Trainers are highly qualified professionals who are dedicated to providing quality education and training to help you achieve your goals.
               </p>
             </div>
           </div>
