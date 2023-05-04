@@ -19,7 +19,7 @@ export default function Header() {
           </button>
 
           <a href="#" className="navbar-brand">
-            Known
+            AJ Multimedia Institute
           </a>
         </div>
 
