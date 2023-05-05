@@ -157,7 +157,7 @@ IT Training Institute | Job Placements | Massive Hike</h1>
 
       <Feature />
       <About />
-      <Team />
+      {/* <Team /> */}
       <Courses />
       <Testimonial />
       <Contact />

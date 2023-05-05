@@ -35,11 +35,11 @@ export default function Header() {
                 About
               </a>
             </li>
-            <li>
+            {/* <li>
               <a href="#team" className="smoothScroll">
                 Our Teachers
               </a>
-            </li>
+            </li> */}
             <li>
               <a href="#courses" className="smoothScroll">
                 Courses
