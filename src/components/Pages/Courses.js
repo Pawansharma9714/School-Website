@@ -42,7 +42,7 @@ export default function Courses() {
                         </div>
                         <div className="courses-date">
                           <span>
-                            <i className="fa fa-calendar"></i> 12 / 06 / 2023
+                            Duration: 9 Months
                           </span>
                           <span>
                             <i className="fa fa-clock-o"></i> 1 Hours
@@ -91,7 +91,7 @@ export default function Courses() {
                         </div>
                         <div className="courses-date">
                           <span>
-                            <i className="fa fa-calendar"></i> 12 / 06 / 2023
+                            Duration : 6 Months
                           </span>
                           <span>
                             <i className="fa fa-clock-o"></i> 1 Hours
@@ -140,20 +140,20 @@ export default function Courses() {
                         </div>
                         <div className="courses-date">
                           <span>
-                            <i className="fa fa-calendar"></i> 15 / 8 / 2018
+                           Duration:1 Months
                           </span>
                           <span>
-                            <i className="fa fa-clock-o"></i> 6 Hours
+                            <i className="fa fa-clock-o"></i> 1 Hours
                           </span>
                         </div>
                       </div>
 
                       <div className="courses-detail">
                         <h3>
-                          <a href="#">Massive Salary Hike</a>
+                          <a href="#">2X-3X Salary Hike Formula</a>
                         </h3>
                         <p>
-                        "Massive Hike Formula" which is a deep strategic program for working professionals to attract 🧲 more Interview calls & then closing them with Highest CTC Offer Letters 
+                        "2X-3X Salary Hike Formula" which is a deep strategic program for working professionals to attract  more Interview calls & then closing them with Highest CTC Offer Letters 
                         </p>
                       </div>
 
@@ -189,10 +189,10 @@ export default function Courses() {
                         </div>
                         <div className="courses-date">
                           <span>
-                            <i className="fa fa-calendar"></i> 10 / 8 / 2023
+                           Duration: 6 Months
                           </span>
                           <span>
-                            <i className="fa fa-clock-o"></i> 2 Hours
+                            <i className="fa fa-clock-o"></i> 1 Hours
                           </span>
                         </div>
                       </div>
@@ -238,7 +238,7 @@ export default function Courses() {
                         </div>
                         <div className="courses-date">
                           <span>
-                            <i className="fa fa-calendar"></i> 5 / 07 / 2023
+                            Duration : 6 Months
                           </span>
                           <span>
                             <i className="fa fa-clock-o"></i> 1 Hours

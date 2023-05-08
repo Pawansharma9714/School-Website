@@ -368,7 +368,7 @@ http://www.templatemo.com/tm-516-known
     background-color: rgba(20,20,20,0.2);
     height: 100%;
     color: #fff;
-    cursor: e-resize;
+    /* cursor: e-resize;  */
   }
 
   .home-slider .item {
