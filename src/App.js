@@ -7,8 +7,27 @@ import Team from "./components/Pages/Team";
 import Courses from "./components/Pages/Courses";
 import Testimonial from "./components/Pages/Testimonial";
 import Contact from "./components/Pages/Contact";
+import { useEffect, useState } from "react";
 
 function App() {
+  const [isLoading, setIsLoading] = useState(true);
+  function fakeRequest() {
+    return new Promise(resolve => setTimeout(() => resolve(), 900));
+  }
+
+  useEffect(() => {
+    fakeRequest().then(() => {
+      const el = document.querySelector(".loader-container");
+      if (el) {
+        el.remove();
+        setIsLoading(!isLoading);
+      }
+    });
+  }, []);
+  if (isLoading) {
+    return null;
+  }
+
   return (
     <BrowserRouter>
       <Routes>
