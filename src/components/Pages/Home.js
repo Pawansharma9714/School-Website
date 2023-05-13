@@ -10,19 +10,28 @@ import "owl.carousel/dist/assets/owl.carousel.css";
 import "owl.carousel/dist/assets/owl.theme.default.css";
 
 export default function Home() {
+  
   return (
     <>
       <section id="home">
         <div className="row">
-          <OwlCarousel className="owl-carousel owl-theme home-slider" items={1} dots={false} loop>
+          <OwlCarousel
+            className="owl-carousel owl-theme home-slider"
+            items={1}
+            dots={false}
+            loop
+          >
             <div className="item item-first">
               <div className="caption">
                 <div className="container">
                   <div className="col-md-6 col-sm-12">
                     <h1>
-IT Training Institute | Job Placements | Massive Hike</h1>
+                      IT Training Institute | Job Placements | Massive Hike
+                    </h1>
                     <h3>
-                    Prepare yourself to become a competent and skilled IT Specialist that is ready for the demands and challenges of the industry.
+                      Prepare yourself to become a competent and skilled IT
+                      Specialist that is ready for the demands and challenges of
+                      the industry.
                     </h3>
                     <a
                       href="#feature"
@@ -62,11 +71,12 @@ IT Training Institute | Job Placements | Massive Hike</h1>
                   <div className="col-md-6 col-sm-12">
                     <h1>Efficient Learning Methods</h1>
                     <h3>
-                    We believe in Involve active participation, such as taking notes and asking questions, and breaking down complex concepts into smaller, manageable pieces. Additionally, regular practice, repetition, and seeking feedback can enhance understanding and retention of information.{" "}
-                      <a
-                        href="#courses"
-                        target="_parent"
-                      >
+                      We believe in Involve active participation, such as taking
+                      notes and asking questions, and breaking down complex
+                      concepts into smaller, manageable pieces. Additionally,
+                      regular practice, repetition, and seeking feedback can
+                      enhance understanding and retention of information.{" "}
+                      <a href="#courses" target="_parent">
                         Check out Courses
                       </a>{" "}
                       NOW!

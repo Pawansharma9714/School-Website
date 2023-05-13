@@ -2,6 +2,7 @@ import React from "react";
 import OwlCarousel from "react-owl-carousel";
 import "owl.carousel/dist/assets/owl.carousel.css";
 import "owl.carousel/dist/assets/owl.theme.default.css";
+import { options } from "../../utils/owlresponsive";
 
 export default function Testimonial() {
   return (
@@ -15,7 +16,9 @@ export default function Testimonial() {
               </h2>
             </div>
 
-            <OwlCarousel className="owl-theme" items={3}>
+            <OwlCarousel className="owl-theme" items={3} 
+                {...options}
+            >
               <div className="col-md-4 col-sm-4">
                 <div className="item">
                   <div className="tst-image">
